@@ -11,4 +11,4 @@ the piece type, determine whether a player was in check, etc.
 A natural progression from this is to extend the capability from allowing a legal game between two human players to the ability for
 the program to select moves on its own. To this end, I have worked on moving the program from C++ to Python, making it more efficient
 and outfitting it to make selections for itself. From there, I will use neural networks to give the program an artificial intelligence
-which can improve through play.
+which can allow it to improve through play.
